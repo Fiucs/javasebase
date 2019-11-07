@@ -1,0 +1,7 @@
+add方法出现了异常:
+异常名称：NullPointerException
+异常原因null
+div方法出现了异常:
+异常名称：ArithmeticException
+异常原因/ by zero
+本次此测试共出现：2异常

@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feeb1677-8b8e-4fe5-87f9-5791e6f98260" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javaSeBase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/TmpTestDML.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn3Delte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn2excuteUpdate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/c3p0-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="e#207#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Druid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Testall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/JdbcTmpLearn01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/JdbcConPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbcLearn/src/utils/JDBCutils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>concat</find>
+      <find>detailMessage</find>
+      <find>next</find>
+      <find>Iter</find>
+      <find>writeStre</find>
+      <find>writeStrea</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/MethodTest02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/object/src/org/wedu/homework/Manager.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/ArrayHomeWork.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/object/src/org/wedu/homework/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/TwodArray.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo1/StringTest01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/MethodHomeWork.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/DebugHomeWork.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/ArrayTest02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo1/StringTest02.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/object/src/org/wedu/homework/Phone.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/classlearning/src/org/wedu/classtest1/Hero.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/set/myGeneric/src/com/itheima_04/GenericDemo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/classlearning/src/org/wedu/classtest1/AdHero.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/MethodTest01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/classlearning/src/org/wedu/classtest1/Weapons.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/object/src/org/wedu/demo1/Cat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/ArrayTest03.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/object/src/org/wedu/homework/GirlFriend.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/algorithm/src/test/Test1.java" />
+        <option value="$PROJECT_DIR$/正则表达式/src/Test01.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/MyAnno.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/reflect/ReflectDemo2.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/junit/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/junit/Calculator.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/junit/CalculatorTest1.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/domain/Student.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/reflect/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/AnnoDemo2.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/enumm/Sex.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/enumm/EnumTest.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/enumm/Season.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/enumm/EnumTest.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/test/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/Worker.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/domain/Test1.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/MyAnno3.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/Pro.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/MyAnno11.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/demo/Calculator.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/demo/TestCheck.java" />
+        <option value="$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/niukewang/src/DivieBy3.java" />
+        <option value="$PROJECT_DIR$/niukewang/src/FindWay.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn1.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn3Delte.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn3excuteUpdate.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn4Create.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn2excuteUpdate.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn8transaction.java" />
+        <option value="$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_03/ReflectDemo01.java" />
+        <option value="$PROJECT_DIR$/niukewang/src/FindSonStrlen.java" />
+        <option value="$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/itheima_03/SupplierDemo.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/JdbcConPool.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/c3p0-config.xml" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/JdbcConPool.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/druid.properties" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Druid.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Testall.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/utils/JDBCutils.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Leran6MultiApply.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/C3p0.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/JdbcTmpLearn01.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/my/classfile/Emp.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn5query.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn7Login.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Utils.java" />
+        <option value="$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/TmpTestDML.java" />
+        <option value="$PROJECT_DIR$/niukewang/src/CaculateMax.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="668" />
+    <option name="y" value="127" />
+    <option name="width" value="1100" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaSeBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.itcast.junit" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\idea2019\javaSeBase\基础加强\day01_基础加强\src" />
+      <recent name="G:\idea2019\javaSeBase\函数式接口\myStream\src\com\wedu4" />
+      <recent name="G:\idea2019\javaSeBase\继承修饰符部分\myFinal\src\com\itheima_01" />
+      <recent name="G:\idea2019\javaSeBase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\idea2019\javaSeBase\jdbcLearn\libs" />
+      <recent name="G:\idea2019\javaSeBase\jdbcLearn\src" />
+      <recent name="G:\idea2019\javaSeBase\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima_10" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itheima_03" />
+      <recent name="com.work2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Druid">
+    <configuration name="CaculateMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaculateMax" />
+      <module name="niukewang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Druid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbcConnectpool.Druid" />
+      <module name="jdbcLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbcConnectpool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Learn7Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.base.func.Learn7Login" />
+      <module name="jdbcLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.base.func.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmpTestDML.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbctempalte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbctempalte" />
+      <option name="MAIN_CLASS_NAME" value="jdbctempalte.TmpTestDML" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmpTestDML.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbcLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbctempalte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbctempalte" />
+      <option name="MAIN_CLASS_NAME" value="jdbctempalte.TmpTestDML" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Learn7Login" />
+      <item itemvalue="Application.CaculateMax" />
+      <item itemvalue="Application.Druid" />
+      <item itemvalue="JUnit.TmpTestDML.test5" />
+      <item itemvalue="JUnit.TmpTestDML.test6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Druid" />
+        <item itemvalue="Application.CaculateMax" />
+        <item itemvalue="Application.Learn7Login" />
+        <item itemvalue="JUnit.TmpTestDML.test6" />
+        <item itemvalue="JUnit.TmpTestDML.test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feeb1677-8b8e-4fe5-87f9-5791e6f98260" name="Default Changelist" comment="" />
+      <created>1567752508655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567752508655</updated>
+      <workItem from="1567752514252" duration="16002000" />
+      <workItem from="1567989477807" duration="203000" />
+      <workItem from="1567990078603" duration="11974000" />
+      <workItem from="1568027929218" duration="14111000" />
+      <workItem from="1568076007158" duration="18284000" />
+      <workItem from="1568162965816" duration="11194000" />
+      <workItem from="1568196609410" duration="6321000" />
+      <workItem from="1568212332010" duration="669000" />
+      <workItem from="1568594625987" duration="21096000" />
+      <workItem from="1568628211565" duration="7075000" />
+      <workItem from="1568680869841" duration="20841000" />
+      <workItem from="1568767479444" duration="21079000" />
+      <workItem from="1568855172266" duration="5962000" />
+      <workItem from="1568861875657" duration="207000" />
+      <workItem from="1568862106729" duration="90000" />
+      <workItem from="1568862391660" duration="1115000" />
+      <workItem from="1568863715093" duration="283000" />
+      <workItem from="1568864024977" duration="17797000" />
+      <workItem from="1568940359727" duration="858000" />
+      <workItem from="1568942496798" duration="24590000" />
+      <workItem from="1568988231709" duration="5588000" />
+      <workItem from="1569027346745" duration="22437000" />
+      <workItem from="1569224762418" duration="7480000" />
+      <workItem from="1569286135131" duration="10696000" />
+      <workItem from="1569306830881" duration="10929000" />
+      <workItem from="1569324591899" duration="3120000" />
+      <workItem from="1569372618147" duration="10432000" />
+      <workItem from="1569457542164" duration="34558000" />
+      <workItem from="1569511118320" duration="541000" />
+      <workItem from="1569512338369" duration="473000" />
+      <workItem from="1569545379784" duration="24604000" />
+      <workItem from="1569631735309" duration="11664000" />
+      <workItem from="1569657813002" duration="5062000" />
+      <workItem from="1569893164501" duration="2097000" />
+      <workItem from="1569913931534" duration="787000" />
+      <workItem from="1569981537311" duration="834000" />
+      <workItem from="1570011975333" duration="1318000" />
+      <workItem from="1570344368200" duration="2670000" />
+      <workItem from="1570409691816" duration="34366000" />
+      <workItem from="1570495964458" duration="12364000" />
+      <workItem from="1570516303352" duration="4011000" />
+      <workItem from="1570521716072" duration="1982000" />
+      <workItem from="1570523908992" duration="4578000" />
+      <workItem from="1570582180800" duration="20083000" />
+      <workItem from="1570627193714" duration="202000" />
+      <workItem from="1570631013935" duration="302000" />
+      <workItem from="1570668590963" duration="21862000" />
+      <workItem from="1570705619494" duration="14319000" />
+      <workItem from="1570753551285" duration="29658000" />
+      <workItem from="1570841355581" duration="14019000" />
+      <workItem from="1570883619978" duration="2605000" />
+      <workItem from="1570944768961" duration="11976000" />
+      <workItem from="1571014606624" duration="26484000" />
+      <workItem from="1571100291389" duration="21882000" />
+      <workItem from="1571187189587" duration="4898000" />
+      <workItem from="1571213921831" duration="8687000" />
+      <workItem from="1571273694266" duration="10285000" />
+      <workItem from="1571295989043" duration="10732000" />
+      <workItem from="1571361487878" duration="7965000" />
+      <workItem from="1571372553743" duration="1535000" />
+      <workItem from="1571446300865" duration="1187000" />
+      <workItem from="1571839011020" duration="6709000" />
+      <workItem from="1571918786545" duration="2903000" />
+      <workItem from="1571921829542" duration="366000" />
+      <workItem from="1571923196507" duration="1410000" />
+      <workItem from="1571927086509" duration="1733000" />
+      <workItem from="1571970371068" duration="7483000" />
+      <workItem from="1571985299549" duration="11870000" />
+      <workItem from="1572011554408" duration="2386000" />
+      <workItem from="1572051501848" duration="11743000" />
+      <workItem from="1572176238392" duration="2780000" />
+      <workItem from="1572179170703" duration="1424000" />
+      <workItem from="1572229532996" duration="2132000" />
+      <workItem from="1572255708074" duration="12000" />
+      <workItem from="1572273188552" duration="3328000" />
+      <workItem from="1572856897332" duration="648000" />
+      <workItem from="1572941135971" duration="14000" />
+      <workItem from="1573022286694" duration="3541000" />
+      <workItem from="1573088542123" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TmpTestDML_test1 - 2019.10.26 at 11h 59m 05s.xml">
+      <configuration name="TmpTestDML.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test2 - 2019.10.27 at 20h 03m 59s.xml">
+      <configuration name="TmpTestDML.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test3 - 2019.10.27 at 20h 05m 56s.xml">
+      <configuration name="TmpTestDML.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test4 - 2019.10.27 at 20h 08m 14s.xml">
+      <configuration name="TmpTestDML.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test4 - 2019.10.27 at 20h 09m 13s.xml">
+      <configuration name="TmpTestDML.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test5 - 2019.10.27 at 20h 11m 06s.xml">
+      <configuration name="TmpTestDML.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test6 - 2019.10.27 at 20h 17m 36s.xml">
+      <configuration name="TmpTestDML.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test6 - 2019.10.27 at 20h 20m 44s.xml">
+      <configuration name="TmpTestDML.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test6 - 2019.10.27 at 20h 22m 32s.xml">
+      <configuration name="TmpTestDML.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TmpTestDML_test6 - 2019.10.27 at 20h 23m 00s.xml">
+      <configuration name="TmpTestDML.test6" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="681996000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="668" y="127" width="1100" height="870" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83633095" visible="true" weight="0.24423076" />
+      <window_info id="Structure" order="1" sideWeight="0.16366906" side_tool="true" visible="true" weight="0.24423076" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.27919707" side_tool="true" weight="0.25050917" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.30877194" weight="0.31954023" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.8248632" weight="0.3167116" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32668328" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32668328" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.24559022" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.34099266" weight="0.26329115" />
+      <window_info anchor="bottom" x="108" y="740" width="1473" height="254" id="Run" order="12" sideWeight="0.17513682" side_tool="true" weight="0.31886023" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.23097113" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24965517" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.29829004" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3289655" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3289655" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/DebugTest01.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studtybase/src/org/wedu/demo/DebugHomeWork.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/集合/myList/src/com/itheima_03/ListDemo.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/map/myMap/src/com/itheima_03/HashMapDemo.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/domain/Person.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/domain/Test1.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niukewang/src/DivieBy3.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niukewang/src/FindWay.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niukewang/src/CaculateMax.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/algorithm/src/CharChangeQuestion.java</url>
+          <line>55</line>
+          <properties class="CharChangeQuestion" method="transfer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/集合/myList/src/com/homework/MainMenu.java</url>
+          <line>147</line>
+          <properties method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaSeBase$CopyAviDemo.ic" NAME="CopyAviDemo Coverage Results" MODIFIED="1569633158165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima_03.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaSeBase$BufferStreamDemo.ic" NAME="BufferStreamDemo Coverage Results" MODIFIED="1569633129080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima_03.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/demo/bug.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/demo/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础加强/day01_基础加强/src/cn/itcast/annotation/MyAnno11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/java/jdk-11.0.4/lib/src.zip!/java.base/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_01/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_02/ReflectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_03/ReflectDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_06/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/job1/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/job1/StrToObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_06/ReflectTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_05/ReflectDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_06/ReflectTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myStream/src/com/itheima_01/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myStream/src/com/itheima_02/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类加载和反射机制/myReflect/src/com/itheima_06/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/homework/ContChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/itheima_03/SupplierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/itheima_04/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/itheima_05/PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/src/com/itheima_06/FunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdbcLearn/libs/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/impl/PoolBackedDataSourceBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdbcLearn/libs/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/PooledDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdbcLearn/libs/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/AbstractComboPooledDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" column="106" lean-forward="true" selection-start-line="30" selection-start-column="106" selection-end-line="30" selection-end-column="106" />
+          <folding>
+            <element signature="e#6670#6671#0" expanded="true" />
+            <element signature="e#6719#6720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdbcLearn/libs/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/my/classfile/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/C3p0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jdbcLearn/libs/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/impl/AbstractPoolBackedDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niukewang/src/FindSonStrlen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niukewang/src/FindWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niukewang/src/DivieBy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niukewang/src/CaculateMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Leran6MultiApply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn8transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn7Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn5query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn4Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn3excuteUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/TmpTestDML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn3Delte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn2excuteUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbc/base/func/Learn1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#207#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Druid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/Testall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbctempalte/JdbcTmpLearn01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/jdbcConnectpool/JdbcConPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbcLearn/src/utils/JDBCutils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jdbcLearn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

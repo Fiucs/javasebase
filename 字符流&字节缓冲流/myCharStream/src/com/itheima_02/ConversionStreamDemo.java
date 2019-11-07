@@ -1,0 +1,42 @@
+package com.itheima_02;
+
+import java.io.*;
+
+/*
+    InputStreamReader：是从字节流到字符流的桥梁
+        它读取字节，并使用指定的编码将其解码为字符
+        它使用的字符集可以由名称指定，也可以被明确指定，或者可以接受平台的默认字符集
+
+    OutputStreamWriter：是从字符流到字节流的桥梁
+        是从字符流到字节流的桥梁，使用指定的编码将写入的字符编码为字节
+        它使用的字符集可以由名称指定，也可以被明确指定，或者可以接受平台的默认字符集
+ */
+public class ConversionStreamDemo {
+    public static void main(String[] args) throws IOException {
+
+        OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream("字符流&字节缓冲流\\myCharStream\\osw.txt"),"UTF-8");
+        //直接用FileReader打开//BufferedReader br = new BufferedReader(new FileReader("字符流&字节缓冲流\\myCharStream\\osw.txt"));
+
+
+        //用字节转字符的桥梁 来打开文件 效率高//BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("字符流&字节缓冲流\\myCharStream\\osw.txt")));
+
+
+        osw.write("中国\n");
+        osw.write("阿斯顿法国红酒\n",0,1);
+        osw.close();
+
+        InputStreamReader isr = new InputStreamReader(new FileInputStream("字符流&字节缓冲流\\myCharStream\\osw.txt"));
+
+        String str="中国";
+     byte[] chars = str.getBytes();
+        System.out.println(chars.length);
+        int ch;
+        while ((ch=isr.read())!=-1){
+
+            System.out.print((char)ch);
+
+
+        }
+        isr.close();
+    }
+}

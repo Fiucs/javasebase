@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classlearning/classlearning.iml" filepath="$PROJECT_DIR$/classlearning/classlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基础加强/day01_基础加强/day01_基础加强.iml" filepath="$PROJECT_DIR$/基础加强/day01_基础加强/day01_基础加强.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSeBase.iml" filepath="$PROJECT_DIR$/javaSeBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcLearn/jdbcLearn.iml" filepath="$PROJECT_DIR$/jdbcLearn/jdbcLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多态和抽象类和接口/myAbstract/myAbstract.iml" filepath="$PROJECT_DIR$/多态和抽象类和接口/myAbstract/myAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/myArgs/myArgs.iml" filepath="$PROJECT_DIR$/内部类和API/myArgs/myArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/myArrays/myArrays.iml" filepath="$PROJECT_DIR$/内部类和API/myArrays/myArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File类递归字节流/myByteStream/myByteStream.iml" filepath="$PROJECT_DIR$/File类递归字节流/myByteStream/myByteStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字符流&amp;字节缓冲流/myByteStream/myByteStream1.iml" filepath="$PROJECT_DIR$/字符流&amp;字节缓冲流/myByteStream/myByteStream1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api和异常/myCalendar/myCalendar.iml" filepath="$PROJECT_DIR$/Api和异常/myCalendar/myCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字符流&amp;字节缓冲流/myCharStream/myCharStream.iml" filepath="$PROJECT_DIR$/字符流&amp;字节缓冲流/myCharStream/myCharStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/集合/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/map/myCollections/myCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api和异常/myDate/myDate.iml" filepath="$PROJECT_DIR$/Api和异常/myDate/myDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File类递归字节流/myDiGui/myDiGui.iml" filepath="$PROJECT_DIR$/File类递归字节流/myDiGui/myDiGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多态和抽象类和接口/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/多态和抽象类和接口/myDuoTai/myDuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api和异常/myException/myException.iml" filepath="$PROJECT_DIR$/Api和异常/myException/myException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/继承修饰符部分/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/继承修饰符部分/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File类递归字节流/myFile/myFile.iml" filepath="$PROJECT_DIR$/File类递归字节流/myFile/myFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/继承修饰符部分/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/继承修饰符部分/myFinal/myFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/函数式接口/myFunctionInterface/myFunctionInterface.iml" filepath="$PROJECT_DIR$/函数式接口/myFunctionInterface/myFunctionInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/set/myGeneric/myGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/内部类和API/myInnerClass/myInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api和异常/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/Api和异常/myInteger/myInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多态和抽象类和接口/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/多态和抽象类和接口/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamnda/myInterface/myInterface1.iml" filepath="$PROJECT_DIR$/lamnda/myInterface/myInterface1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamnda/myLambda/myLambda.iml" filepath="$PROJECT_DIR$/lamnda/myLambda/myLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/myList/myList.iml" filepath="$PROJECT_DIR$/集合/myList/myList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/myMap/myMap.iml" filepath="$PROJECT_DIR$/map/myMap/myMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/myMath/myMath.iml" filepath="$PROJECT_DIR$/内部类和API/myMath/myMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamnda/myMethodReference/myMethodReference.iml" filepath="$PROJECT_DIR$/lamnda/myMethodReference/myMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络通信/myNet/myNet.iml" filepath="$PROJECT_DIR$/网络通信/myNet/myNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/myObject/myObject.iml" filepath="$PROJECT_DIR$/内部类和API/myObject/myObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO流和Properties集合/myOtherStream/myOtherStream.iml" filepath="$PROJECT_DIR$/IO流和Properties集合/myOtherStream/myOtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/类加载和反射机制/myReflect/myReflect.iml" filepath="$PROJECT_DIR$/类加载和反射机制/myReflect/myReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/mySet/mySet.iml" filepath="$PROJECT_DIR$/set/mySet/mySet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api和异常/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/Api和异常/mySimpleDateFormat/mySimpleDateFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/继承修饰符部分/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/继承修饰符部分/myStatic/myStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/函数式接口/myStream/myStream.iml" filepath="$PROJECT_DIR$/函数式接口/myStream/myStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类和API/mySystem/mySystem.iml" filepath="$PROJECT_DIR$/内部类和API/mySystem/mySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/myThread/myThread.iml" filepath="$PROJECT_DIR$/多线程/myThread/myThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niukewang/niukewang.iml" filepath="$PROJECT_DIR$/niukewang/niukewang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studtybase/studybase.iml" filepath="$PROJECT_DIR$/studtybase/studybase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/正则表达式/正则表达式.iml" filepath="$PROJECT_DIR$/正则表达式/正则表达式.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+className=com.itheima_06.Teacher
+methodName=teach
+className1=com.itheima_06.Student
+methodName1=study
